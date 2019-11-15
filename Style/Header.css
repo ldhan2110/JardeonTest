@@ -3,6 +3,10 @@
     height: 5vw;
 }
 
+.nav {
+    padding-top: 1%;
+}
+
 .nav-link {
     color: gray;
 }
@@ -16,4 +20,5 @@ img {
     width: 15vw;
     height: 15vw;
     border-radius: 50%;
+    border-left: none;
 }
