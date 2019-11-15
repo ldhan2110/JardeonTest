@@ -1,0 +1,19 @@
+.container-fluid {
+    background-color: black;
+    height: 5vw;
+}
+
+.nav-link {
+    color: gray;
+}
+
+.col {
+    text-align: center;
+    margin-top: 5%;
+}
+
+img {
+    width: 15vw;
+    height: 15vw;
+    border-radius: 50%;
+}
